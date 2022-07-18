@@ -1,0 +1,41 @@
+.card{
+    width: 400px;
+    max-height: 1300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 3px solid rgb(92, 10, 180);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+
+
+    img{
+        width: 80%;
+        border-radius: 20px;
+        margin-bottom: 15px;
+    }
+
+    h2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+
+   
+}
+
+.p1{
+    text-align: center;
+
+    p{
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+}
+
+.p2{
+    text-align: center;
+}

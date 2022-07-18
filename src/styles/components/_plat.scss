@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+
+    input{
+        width: 300px;
+        text-align: center;
+        align-self: center;
+        margin-bottom: 15px;
+    }
+}
+
+.plat{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
